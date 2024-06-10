@@ -1,6 +1,6 @@
 {
-  "name": "@xenova/transformers",
-  "version": "3.0.0-alpha.0",
+  "name": "@intertwine/transformers",
+  "version": "3.0.0",
   "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
   "main": "./src/transformers.js",
   "types": "./types/transformers.d.ts",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xenova/transformers.js.git"
+    "url": "git+https://github.com/intertwine/transformers.js.git"
   },
   "keywords": [
     "transformers",
